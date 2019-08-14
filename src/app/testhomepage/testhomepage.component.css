@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    
+    
+  }
+  
+  .flex-container > p {
+    background-color: #f1f1f1;
+    border: 1px solid;
+    margin: 10px;
+    text-align: center;
+    line-height: 55px;
+    font-size: 15px;
+  }
+  .tags{
+      top: 8px;
+  }
+  
